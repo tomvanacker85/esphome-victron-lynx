@@ -1,1 +1,8 @@
+{
+  "domain": "victron_lynx",
+  "name": "Victron Lynx I2C",
+  "version": "1.0",
+  "requirements": [],
+  "dependencies": []
+}
 
